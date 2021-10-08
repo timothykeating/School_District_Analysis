@@ -10,6 +10,7 @@ At a district level, the numbers were not affected very much.  We can observe a 
 
 79.0 -->
 ![summary_df_OLD](Resources/summary_df_OLD.png)
+
 78.9 -->
 ![summary_df_NEW](Resources/district_summary_df_NEW.png)
 
@@ -17,6 +18,7 @@ The school summary is affected for Thomas High School, only.  We can see that, w
 
 Thomas High Data, % Passing {Math/Reading/Both} = {93% / 97% / 90%} -->
 ![Thomas_OLD](Resources/thomas_OLD.png)
+
 Thomas High Data, % Passing {Math/Reading/Both} = {66% / 69% / 65%} -->
 ![Thomas_NEW](Resources/thomas_NEW.png)
 
@@ -24,6 +26,7 @@ Removing the Thomas High 9th graders' Math and Reading scores changes Thomas Hig
 
 '#2 -->
 ![sorted_OLD](Resources/sorted_OLD.png)
+
 '#8 -->
 ![sorted_NEW](Resources/sorted_NEW.png)
 
