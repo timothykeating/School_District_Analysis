@@ -8,17 +8,23 @@ Over the past week, during the learning of this Module in class, we found many a
 
 At a district level, the numbers were not affected very much.  We can observe a slight decrease in the Average Math Score (from 79.0 to 78.9).
 
+79.0 -->
 ![summary_df_OLD](Resources/summary_df_OLD.png)
+78.9 -->
 ![summary_df_NEW](Resources/district_summary_df_NEW.png)
 
 The school summary is affected for Thomas High School, only.  We can see that, when we removed the 9th graders' data, the percentage of Thomas High students who were passing Math, the percentage passing Reading, and the percentage passing Both were greatly reduced.
 
+Thomas High Data, % Passing {Math/Reading/Both} = {93% / 97% / 90%} -->
 ![Thomas_OLD](Resources/thomas_OLD.png)
+Thomas High Data, % Passing {Math/Reading/Both} = {66% / 69% / 65%} -->
 ![Thomas_NEW](Resources/thomas_NEW.png)
 
 Removing the Thomas High 9th graders' Math and Reading scores changes Thomas High's relative ranking from #2 to #8.
 
+'#2 -->
 ![sorted_OLD](Resources/sorted_OLD.png)
+'#8 -->
 ![sorted_NEW](Resources/sorted_NEW.png)
 
 Removing the Thomas High 9th graders' Math and Reading scores affects many of the Metrics.  Regarding the Math and Reading scores by grade & school analysis, the only data point to be affected is the 9th graders from Thomas High School - you can see that there are "NaN" values in the table:
